@@ -7,7 +7,7 @@
 <h3>Do you want to play 👾</h3>
 <ul>
 <li><p>Keys for players to use; For player 1 <strong>W and S</strong>, for player 2 <strong>Up and Down</strong>. </p></li>
-<li><p>To play the game, you can copy the code in the js file and paste it on the console of any site in your browser. And press enter.</p></li>
+<li><p>To play the game, you can copy the code in the js file and paste it on the console of any site in your browser. And press enter. Like this 👇🏻</p></li>
 </ul>
 
 
